@@ -5,12 +5,19 @@ Exam project in Artificial Intelligence and Machine Learning
 * TODO: update
 - Jupyter Notebook
 - Python 3.9.7
-- Numpy
-- Pandas
-- Scikit-learn
-- Imblearn
-- Seaborn
 
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- transformers
+- seaborn
+- ydata-profiling - EDA automation
+- tensorFlow
+- pyTorch
+
+- (keras)
+- (nltk - NLP toolkit)
 
 ## Dataset
 * TODO: update
