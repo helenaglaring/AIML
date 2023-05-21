@@ -1,35 +1,14 @@
-# AI & ML 2023 - Drug Review
+# AI & ML 2023 - Sentiment Analysis of Drug Reviews
 Exam project in Artificial Intelligence and Machine Learning (CBS, cand.merc.it, 2. semester)
 
 Marza Mustafa & Helena Glaring
 
-## Dependencies
-
-- Jupyter Notebook
-- Python 3.9.7
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- pandas-profiling
-- wordcloud
-- plotly
-- scikit-learn
-- bs4
-- nltk
-- spacy
-- imbalanced-learn
-- tensorflow
-- tensorflow_hub
-- tensorflow_text
-- transformers
+Jupyter Notebook: [AIML_drug_review_colab.ipynb](https://github.com/helenaglaring/AIML/blob/main/AIML_drug_review_colab.ipynb)
 
 ## Dataset
 
-**Dataset:** UCI ML Drug Review dataset
-- *Source:* 
-    - https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018
-    - 
+**Dataset:** [UCI ML Drug Review dataset](https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018)
+
 
 ### General information about dataset
 
@@ -67,6 +46,28 @@ Following the CRISP-DM framework
 3. Preprocessing
 4. Modeling 
 5. Evaluation
+
+
+## Dependencies
+
+- Jupyter Notebook
+- Python 3.9.7
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- pandas-profiling
+- wordcloud
+- plotly
+- scikit-learn
+- bs4
+- nltk
+- spacy
+- imbalanced-learn
+- tensorflow
+- tensorflow_hub
+- tensorflow_text
+- transformers
 
 
 
