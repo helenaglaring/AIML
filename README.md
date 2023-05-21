@@ -1,26 +1,30 @@
 # AI & ML 2023 - Drug Review
-Exam project in Artificial Intelligence and Machine Learning
+Exam project in Artificial Intelligence and Machine Learning (CBS, cand.merc.it, 2. semester)
+
+Marza Mustafa & Helena Glaring
 
 ## Dependencies
-* TODO: update
+
 - Jupyter Notebook
 - Python 3.9.7
-
 - numpy
 - pandas
-- scikit-learn
 - matplotlib
-- transformers
 - seaborn
-- ydata-profiling - EDA automation
-- tensorFlow
-- pyTorch
-
-- (keras)
-- (nltk - NLP toolkit)
+- pandas-profiling
+- wordcloud
+- plotly
+- scikit-learn
+- bs4
+- nltk
+- spacy
+- imbalanced-learn
+- tensorflow
+- tensorflow_hub
+- tensorflow_text
+- transformers
 
 ## Dataset
-* TODO: update
 
 **Dataset:** UCI ML Drug Review dataset
 - *Source:* 
@@ -54,17 +58,14 @@ The data is split into a train (75%) a test (25%) partition (see publication) an
 
 Felix Gräßer, Surya Kallumadi, Hagen Malberg, and Sebastian Zaunseder. 2018. Aspect-Based Sentiment Analysis of Drug Reviews Applying Cross-Domain and Cross-Data Learning. In Proceedings of the 2018 International Conference on Digital Health (DH '18). ACM, New York, NY, USA, 121-125. DOI: [Web Link](https://dl.acm.org/doi/10.1145/3194658.3194677)
 
-## TODO - Code outline
+## Structure of the Jupyter Notebook
+Following the CRISP-DM framework
 
 1. Business Understanding
-
 2. Data understanding
-EDA
-
+    - EDA
 3. Preprocessing
-
 4. Modeling 
-
 5. Evaluation
 
 
